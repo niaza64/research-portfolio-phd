@@ -19,7 +19,7 @@ const Home = () => {
               Deep Learning Researcher & Computer Vision Specialist
             </p>
             <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
-              Pursuing PhD in Computer Vision with focus on Multimodal Learning
+              Planning to pursue a PhD in Computer Vision with focus on Multimodal Learning
             </p>
             <div className="flex gap-4 justify-center flex-wrap pt-6">
               <Link to="/research">
